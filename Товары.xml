@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfTovar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tovar>
+    <Name>Молоко</Name>
+    <Country>Россия</Country>
+    <Price>55.44</Price>
+  </Tovar>
+  <Tovar>
+    <Name>Хлеб</Name>
+    <Country>Россия</Country>
+    <Price>33</Price>
+  </Tovar>
+  <Tovar>
+    <Name>Картошка</Name>
+    <Country>Россия</Country>
+    <Price>32</Price>
+  </Tovar>
+  <Tovar>
+    <Name>Наушники</Name>
+    <Country>Китай</Country>
+    <Price>65.34</Price>
+  </Tovar>
+</ArrayOfTovar>
